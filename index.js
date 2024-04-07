@@ -26,6 +26,7 @@ const imageArray = [
   "https://freepngimg.com/thumb/car/11-2-car-picture.png",
   "./assets/pngegg (6).png",
   "./assets/newcar2-removebg-preview.png",
+  "./assets/bus2-removebg-preview.png",
   "https://th.bing.com/th/id/R.f33cf38ca8ffd16e0d74c1c0b488e6fa?rik=fJRkDZtpLif1Tw&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fcar-png--2000.png&ehk=NNUZMtBWVKsm0rdwbqInd9upaYDYo6ztYC62khvQebc%3d&risl=&pid=ImgRaw&r=0",
   // "https://www.freepnglogos.com/uploads/car-png/car-png-large-images-40.png",
   // "https://th.bing.com/th/id/R.ceee8ccf05c1e458dac5fdd9dd0d71e7?rik=lXmrJwPS9dKcgg&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fpng-hd-of-car-audi-png-hd-png-image-2505.png&ehk=TYMNLgUAstCSxLa%2fHN50J51SKq%2f8AjyeynAFcUfEegg%3d&risl=1&pid=ImgRaw&r=0",

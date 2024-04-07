@@ -347,14 +347,15 @@ a {
 .about-pic2{
     height : 38vh;
     width : 25vw;
-    background: url();
+    background: url(https://img.freepik.com/premium-vector/delivery-service-app-smartphone-cargo-van-abstract-cityscape-background-vector-illustration_357257-554.jpg?w=740);
     background-size: cover ;
+    background-position: center;
     border-radius: 20px;
 }
 .about-pic3{
     height : 38vh;
     width : 25vw;
-    background: url(./assets/efficiency-effectiveness.jpg);
+    background: url(./assets/about-pic1.jpg);
     background-size: cover ;
     border-radius: 20px;
 }
